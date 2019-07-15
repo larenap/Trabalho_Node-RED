@@ -4,7 +4,9 @@ Repositório para o trabalho feito usando a ferramenta Node-RED
 Os arquivos nesse repositório são:
 
 1- As bibliotecas usadas no programa "Projeto.ino"
+
 2- O arquivo "Projeto.ino" contendo o programa da ESP8266
+
 3- Um arquivo json contendo o flow do node-red referente a esse trabalho
 
 
